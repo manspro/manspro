@@ -1,19 +1,10 @@
 # <b>Hi there 👋 I'm Mansur</b> 
 
-### Full-Stack JS Developer
+### Backend (node.js) developer
 
-### My Technology stack:
 
-Node.js
-Nest.js
-Express.js
-TypeScript
-PostgreSQL
-Sequelize
-TypeORM
-React
-React-Redux
-React-Saga
+
+
 
 
 ### Connect with me::
